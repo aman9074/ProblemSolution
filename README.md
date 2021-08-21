@@ -1,5 +1,5 @@
-# HackerRankSolution
-The repository is to publish java programs aimed to solve interesting problem statements in Hacker rank
+# ProblemSolution
+The repository is to attempt interesting ways to solve problem statements
 
 Below are some ways to execute program:
 
