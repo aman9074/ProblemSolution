@@ -1,4 +1,4 @@
-package minimum_picks;
+import java.util.*;
 
 /**
  * Find the difference between minimum odd and maximum even

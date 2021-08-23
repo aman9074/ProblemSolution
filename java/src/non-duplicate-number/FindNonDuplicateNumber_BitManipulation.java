@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 /**
  * XORing two equal numbers cancel each other, thereby leaving non-duplicate number in the output
